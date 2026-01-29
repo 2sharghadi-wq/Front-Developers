@@ -1,0 +1,7 @@
+{
+  "name": "Forge Performance - Elite Fitness & Performance",
+  "description": "A premium, high-performance gym website featuring AI-powered trainer matching, membership management, and comprehensive facility information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
